@@ -1,4 +1,4 @@
-Seastar
+Seastar-balus's study notes
 =======
 
 [![CircleCI](https://circleci.com/gh/scylladb/seastar.svg?style=svg)](https://circleci.com/gh/scylladb/seastar)
